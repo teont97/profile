@@ -1,0 +1,10 @@
+.thumb-image{
+	float:left;width:150px;
+	position:relative;
+	padding:5px;
+}
+.thumb-image-list{
+	float:left;width:100px;
+	position:relative;
+	padding:5px;
+}
